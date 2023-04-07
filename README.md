@@ -1,5 +1,5 @@
  
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&text=안녕하세요😊&fontSize=30&fontColor=fff&fontAlign=11&fontAlignY=30&&animation=fadeIn&desc=주니어%20프론트엔드%20개발자%20백은지입니다&descAlign=15.5&descAlignY=45&descSize=15 )
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=200&section=header&text=HI😊&fontSize=30&fontColor=fff&fontAlign=50&fontAlignY=30&&animation=fadeIn&desc=Frontend%20Developer%20EunjiBaek&descAlign=50.5&descAlignY=45&descSize=15 )
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F909back&count_bg=%233D84C8&title_bg=%23555555&icon=googlekeep.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
